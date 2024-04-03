@@ -1,11 +1,7 @@
 PSF
 
-       5 !NTITLE
+       1 !NTITLE
  REMARKS original generated structure x-plor psf file
- REMARKS segment NT22 { first ; last ; auto none  }
- REMARKS segment BOX1 { first ; last ; auto none  }
- REMARKS segment BOX2 { first ; last ; auto none  }
- REMARKS segment BOX3 { first ; last ; auto none  }
 
      447 !NATOM
        1 NT22 1    ARM  C000 CA     0.000000       12.0110           0

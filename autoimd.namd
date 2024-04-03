@@ -1,5 +1,5 @@
 set paramfile_list {par_nanotubes.inp}
-set imdport 5171
+set imdport 2698
 set sim_mode equilibrate
 set namdoutputrate 1
 set dcdfreq 10
